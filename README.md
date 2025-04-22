@@ -1,5 +1,5 @@
 git clone {paste url}  
-(in Desktop-Pet directory):
+(in Desktop-Pet directory):  
 python3 -m venv  
 call venv/Scripts/activate  
 pip install PyQt5  
